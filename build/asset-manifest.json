@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-announcement/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-announcement/static/js/main.9a5e7a7c.chunk.js",
+    "main.js.map": "/react-announcement/static/js/main.9a5e7a7c.chunk.js.map",
+    "runtime-main.js": "/react-announcement/static/js/runtime-main.92c56012.js",
+    "runtime-main.js.map": "/react-announcement/static/js/runtime-main.92c56012.js.map",
+    "static/css/2.834d9441.chunk.css": "/react-announcement/static/css/2.834d9441.chunk.css",
+    "static/js/2.a289a3aa.chunk.js": "/react-announcement/static/js/2.a289a3aa.chunk.js",
+    "static/js/2.a289a3aa.chunk.js.map": "/react-announcement/static/js/2.a289a3aa.chunk.js.map",
+    "index.html": "/react-announcement/index.html",
+    "precache-manifest.39896edfd03bb7894bb5197cc9359535.js": "/react-announcement/precache-manifest.39896edfd03bb7894bb5197cc9359535.js",
+    "service-worker.js": "/react-announcement/service-worker.js",
+    "static/css/2.834d9441.chunk.css.map": "/react-announcement/static/css/2.834d9441.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-announcement/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a289a3aa.chunk.js.LICENSE.txt": "/react-announcement/static/js/2.a289a3aa.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-announcement/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c56012.js",
+    "static/css/2.834d9441.chunk.css",
+    "static/js/2.a289a3aa.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9a5e7a7c.chunk.js"
+  ]
+}
